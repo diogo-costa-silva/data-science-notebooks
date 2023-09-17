@@ -10,7 +10,9 @@ Here are available the notebooks of the projects made by me in the area of Data 
 
 * **[Google Play Store Analysis:](https://github.com/luislauriano/Data_Science/tree/master/Possiveis%20resultados%20copa%20do%20mundo%202022)**
 This is a project for the purposes of curiosity and machine learning study, with the aim of developing a model capable of predicting possible outcomes of the 2022 World Cup matches, until reaching the result of the grand winner of the championship.
+
 <br>
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/diogo-costa-silva/Data-Science/blob/main/notebooks/titanic_analysis.ipynb)
 
 
