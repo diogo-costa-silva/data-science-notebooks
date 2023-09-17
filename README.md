@@ -1,3 +1,5 @@
+# Data Science Notebooks
+
 [![author](https://img.shields.io/badge/Author-Diogo%20Silva-important)](https://www.linkedin.com/in/diogo-costa-silva/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/diogo-costa-silva/Data-Science)
 
 <p align="center">
@@ -7,6 +9,11 @@
 ## My projects:
 
 Here are available the notebooks of the projects made by me in the area of Data Science and Machine Learning.
+
+---
+
+* **[Fifa 23 Players:](https://github.com/luislauriano/Data_Science/tree/master/Possiveis%20resultados%20copa%20do%20mundo%202022)**
+Work in progress. &nbsp; &nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/diogo-costa-silva/Data-Science/blob/main/notebooks/titanic_analysis.ipynb)
 
 * **[Google Play Store Analysis:](https://github.com/luislauriano/Data_Science/tree/master/Possiveis%20resultados%20copa%20do%20mundo%202022)**
 Work in progress. &nbsp; &nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/diogo-costa-silva/Data-Science/blob/main/notebooks/titanic_analysis.ipynb)
@@ -24,8 +31,7 @@ Work in progress. &nbsp; &nbsp; [![Open In Colab](https://colab.research.google.
 * **[Customer Aquisition Data:](https://github.com/luislauriano/Data_Science/tree/master/Possiveis%20resultados%20copa%20do%20mundo%202022)**
 Work in progress. &nbsp; &nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/diogo-costa-silva/Data-Science/blob/main/notebooks/titanic_analysis.ipynb)
 
-* **[Fifa 23 Players:](https://github.com/luislauriano/Data_Science/tree/master/Possiveis%20resultados%20copa%20do%20mundo%202022)**
-Work in progress. &nbsp; &nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/diogo-costa-silva/Data-Science/blob/main/notebooks/titanic_analysis.ipynb)
+
 
 * **[Inequality in Education:](https://github.com/luislauriano/Data_Science/tree/master/Possiveis%20resultados%20copa%20do%20mundo%202022)**
 Work in progress. &nbsp; &nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/diogo-costa-silva/Data-Science/blob/main/notebooks/titanic_analysis.ipynb)
