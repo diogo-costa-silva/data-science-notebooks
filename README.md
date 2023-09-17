@@ -19,7 +19,7 @@ Work in progress. &nbsp; &nbsp; [![Open In Colab](https://colab.research.google.
 Work in progress. &nbsp; &nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/diogo-costa-silva/Data-Science/blob/main/notebooks/titanic_analysis.ipynb)
 
 * **[U.S.A. AirBnB Open Data from 2020 and 2023:](https://github.com/luislauriano/Data_Science/tree/master/Possiveis%20resultados%20copa%20do%20mundo%202022)**
-This is a project for the purposes of curiosity and machine learning study, with the aim of developing a model capable of predicting possible outcomes of the 2022 World Cup matches, until reaching the result of the grand winner of the championship.
+Work in progress. &nbsp; &nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/diogo-costa-silva/Data-Science/blob/main/notebooks/titanic_analysis.ipynb)
 
 * **[Customer Aquisition Data:](https://github.com/luislauriano/Data_Science/tree/master/Possiveis%20resultados%20copa%20do%20mundo%202022)**
 Work in progress. &nbsp; &nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/diogo-costa-silva/Data-Science/blob/main/notebooks/titanic_analysis.ipynb)
@@ -31,7 +31,7 @@ Work in progress. &nbsp; &nbsp; [![Open In Colab](https://colab.research.google.
 Work in progress. &nbsp; &nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/diogo-costa-silva/Data-Science/blob/main/notebooks/titanic_analysis.ipynb)
 
 * **[Sales Data Analysis:](https://github.com/luislauriano/Data_Science/tree/master/Possiveis%20resultados%20copa%20do%20mundo%202022)**
-This is a project for the purposes of curiosity and machine learning study, with the aim of developing a model capable of predicting possible outcomes of the 2022 World Cup matches, until reaching the result of the grand winner of the championship. &nbsp; &nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/diogo-costa-silva/Data-Science/blob/main/notebooks/titanic_analysis.ipynb)
+Work in progress. &nbsp; &nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/diogo-costa-silva/Data-Science/blob/main/notebooks/titanic_analysis.ipynb)
 
 * **[Video Games Sales:](https://github.com/luislauriano/Data_Science/tree/master/Possiveis%20resultados%20copa%20do%20mundo%202022)**
 Work in progress. &nbsp; &nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/diogo-costa-silva/Data-Science/blob/main/notebooks/titanic_analysis.ipynb)
@@ -41,6 +41,7 @@ Work in progress. &nbsp; &nbsp; [![Open In Colab](https://colab.research.google.
 
 ---
 
+Thanks to [Luke Chesser](https://unsplash.com/photos/JKUTrJ4vK00?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) for the Unsplashed image.
 
 
 > Made with 💪 by Diogo Silva
