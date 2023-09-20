@@ -17,6 +17,8 @@ Here are available the notebooks of the projects made by me in the area of Data 
 
 In this project I have used exploratory analysis to study the relationships between various variables regarding FIFA 23 players.  
 
+---
+
 #
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[Instacart Market Basket Analysis](https://github.com/archd3sai/Instacart-Market-Basket-Analysis)**
