@@ -12,6 +12,19 @@ Here are available the notebooks of the projects made by me in the area of Data 
 
 ---
 
+
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Fifa 23 Players Analysis](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
+
+In this project I have used exploratory analysis to study the relationships between various variables regarding FIFA 23 players.  
+
+#
+
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[Instacart Market Basket Analysis](https://github.com/archd3sai/Instacart-Market-Basket-Analysis)**
+
+The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
+
+#
+
 * **[Fifa 23 Players:](https://github.com/luislauriano/Data_Science/tree/master/Possiveis%20resultados%20copa%20do%20mundo%202022)**
 Work in progress. &nbsp; &nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/diogo-costa-silva/Data-Science/blob/main/notebooks/titanic_analysis.ipynb)
 
