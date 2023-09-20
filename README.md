@@ -3,7 +3,7 @@
 [![author](https://img.shields.io/badge/Author-Diogo%20Silva-important)](https://www.linkedin.com/in/diogo-costa-silva/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/diogo-costa-silva/Data-Science)
 
 <p align="center">
-  <img src="https://github.com/diogo-costa-silva/data-science-notebooks/blob/main/luke-chesser-JKUTrJ4vK00-unsplash.jpg" width = 100%>
+  <img src="https://github.com/diogo-costa-silva/data-science-notebooks/blob/main/images/luke-chesser-JKUTrJ4vK00-unsplash.jpg" width = 100%>
 </p>
 
 ## My projects:
