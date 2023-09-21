@@ -38,7 +38,7 @@ Here are available the notebooks of the projects made by me in the area of Data 
       <img src="https://raw.githubusercontent.com/diogo-costa-silva/assets/main/images/Manhattan-skyline.jpg" width="450">
     </td>
     <td>
-      <strong><a href="https://github.com/diogo-costa-silva/data-science-notebooks/tree/main/fifa-23-ultimate-team-players">New York City AirBnB Analysis</a></strong> <br> <br>
+      <strong><a href="https://github.com/diogo-costa-silva/data-science-notebooks/tree/main/nyc_airbnb-open-data">New York City AirBnB Analysis</a></strong> <br> <br>
       In this project, I have used exploratory analysis to study the relationships between various variables regarding FIFA 23 players. The goal is to understand the data, clean it up a little and do data exploration to find interesting insights. <br> <br>
       <a href="https://colab.research.google.com/github/diogo-costa-silva/Data-Science/blob/main/notebooks/titanic_analysis.ipynb">
         <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab">
@@ -55,7 +55,7 @@ Here are available the notebooks of the projects made by me in the area of Data 
       <img src="https://raw.githubusercontent.com/diogo-costa-silva/assets/main/images/Google-Play-Store.webp" width="450">
     </td>
     <td>
-      <strong><a href="https://github.com/diogo-costa-silva/data-science-notebooks/tree/main/nyc_airbnb-open-data">Google Play Store Analysis</a></strong> <br> <br>
+      <strong><a href="https://github.com/diogo-costa-silva/data-science-notebooks/tree/main/google-play-store-analysis">Google Play Store Analysis</a></strong> <br> <br>
       In this project, I have used exploratory analysis to study the relationships between various variables regarding FIFA 23 players. The goal is to understand the data, clean it up a little and do data exploration to find interesting insights. <br> <br>
       <a href="https://colab.research.google.com/github/diogo-costa-silva/Data-Science/blob/main/notebooks/titanic_analysis.ipynb">
         <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab">
