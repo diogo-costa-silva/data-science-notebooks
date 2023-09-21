@@ -15,14 +15,16 @@ Here are available the notebooks of the projects made by me in the area of Data 
 
 <img align="left" width="250" height="150" src="https://raw.githubusercontent.com/diogo-costa-silva/data-science-notebooks/main/images/fifa23-ultimate-team.jpg"> **[Fifa 23 Players Analysis](https://github.com/diogo-costa-silva/data-science-notebooks/tree/main/fifa-23-ultimate-team-players)**
 
-In this project I have used exploratory analysis to study the relationships between various variables regarding FIFA 23 players. The goal is to understand the data, clean it up a little and do data exploration to find interesting insights.  &nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/diogo-costa-silva/Data-Science/blob/main/notebooks/titanic_analysis.ipynb)
+In this project I have used exploratory analysis to study the relationships between various variables regarding FIFA 23 players. The goal is to understand the data, clean it up a little and do data exploration to find interesting insights.  &nbsp; 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/diogo-costa-silva/Data-Science/blob/main/notebooks/titanic_analysis.ipynb)
 
 
 #
 
-<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/diogo-costa-silva/data-science-notebooks/main/images/fifa23-ultimate-team.jpg"> **[Fifa 23 Players Analysis](https://github.com/diogo-costa-silva/data-science-notebooks/tree/main/fifa-23-ultimate-team-players)**
+<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/diogo-costa-silva/assets/main/images/Manhattan-skyline.jpg"> **[New York City AirBnB Analysis](https://github.com/diogo-costa-silva/data-science-notebooks/tree/main/fifa-23-ultimate-team-players)**
 
-In this project I have used exploratory analysis to study the relationships between various variables regarding FIFA 23 players. The goal is to understand the data, clean it up a little and do data exploration to find interesting insights.  &nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/diogo-costa-silva/Data-Science/blob/main/notebooks/titanic_analysis.ipynb)
+In this project I have used exploratory analysis to study the relationships between various variables regarding FIFA 23 players. The goal is to understand the data, clean it up a little and do data exploration to find interesting insights.  &nbsp; 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/diogo-costa-silva/Data-Science/blob/main/notebooks/titanic_analysis.ipynb)
 
 #
 
