@@ -13,17 +13,22 @@ Here are available the notebooks of the projects made by me in the area of Data 
 ---
 
 
+<img align="left" width="250" height="150" src="hhttps://raw.githubusercontent.com/diogo-costa-silva/data-science-notebooks/main/images/fifa23-ultimate-team.jpg"> **[Fifa 23 Players Analysis](https://github.com/diogo-costa-silva/data-science-notebooks/tree/main/fifa-23-ultimate-team-players)**
+
+In this project I have used exploratory analysis to study the relationships between various variables regarding FIFA 23 players.  &nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/diogo-costa-silva/Data-Science/blob/main/notebooks/titanic_analysis.ipynb)
+
+
+#
+
 <img align="left" width="250" height="150" src="https://raw.githubusercontent.com/diogo-costa-silva/data-science-notebooks/main/images/dataset-cover.jpg"> **[Fifa 23 Players Analysis](https://github.com/diogo-costa-silva/data-science-notebooks/tree/main/fifa-23-ultimate-team-players)**
 
 In this project I have used exploratory analysis to study the relationships between various variables regarding FIFA 23 players.  &nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/diogo-costa-silva/Data-Science/blob/main/notebooks/titanic_analysis.ipynb)
 
----
-
 #
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[Instacart Market Basket Analysis](https://github.com/archd3sai/Instacart-Market-Basket-Analysis)**
+<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/diogo-costa-silva/data-science-notebooks/main/images/dataset-cover.jpg"> **[Fifa 23 Players Analysis](https://github.com/diogo-costa-silva/data-science-notebooks/tree/main/fifa-23-ultimate-team-players)**
 
-The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
+In this project I have used exploratory analysis to study the relationships between various variables regarding FIFA 23 players.  &nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/diogo-costa-silva/Data-Science/blob/main/notebooks/titanic_analysis.ipynb)
 
 #
 
