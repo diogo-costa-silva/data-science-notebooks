@@ -1,0 +1,199 @@
+rows: 48895
+columns: 16
+
+
+
+id: Listing ID
+name: Name of the listing
+host_id: Host ID
+host_name: Name of the host
+neighbourhood_group: Location
+neighbourhood: Area within the location
+latitude: Latitude coordinate
+longitude: Longitude coordinate
+room_type: Type of room
+price: Price in dollars
+minimum_nights: Minimum nights a guest can book
+number_of_reviews: Number of reviews
+last_review: Latest review date
+reviews_per_month: Number of reviews per month
+calculated_host_listings_count: Amount of listing per host
+availability_365: Number of days when listing is available for booking
+
+
+
+
+- Variable: id
+- Type: int64 (ok)
+- Context: id of each airbnb location present in NYC
+- Missing Values: 0
+- Expectation:
+- Comments:
+- Examples: 5022
+
+-------------------------------------------------------------------
+
+
+- Variable: name
+- Type: object (ok)
+- Context: name of each property in airbnb in NYC
+- Missing Values: 16
+- Expectation:
+- Comments:
+- Examples: Clean & quiet apt home by the park
+
+-------------------------------------------------------------------
+
+
+- Variable: host_id
+- Type: int64 (ok)
+- Context: id of the host of the property.
+- Missing Values: 0
+- Expectation:
+- Comments: foreign key of the hosts table maybe
+- Examples: 2787
+
+-------------------------------------------------------------------
+
+
+- Variable: host_name
+- Type: object (ok)
+- Context: Name of the host of the property.
+- Missing Values: 21
+- Expectation:
+- Comments: LisaRoxanne should be Lisa Roxanne
+- Examples: LisaRoxanne
+
+-------------------------------------------------------------------
+
+
+- Variable: neighbourhood_group (maybe change to borough?)
+- Type: object (category?)
+- Context: region of new york city
+- Missing Values: 0
+- Expectation:
+- Comments:
+- Examples: Manhattan
+
+-------------------------------------------------------------------
+
+
+- Variable: neighbourhood
+- Type: object (category?)
+- Context: neighbourhood
+- Missing Values: 0
+- Expectation:
+- Comments:
+- Examples: Harlem
+
+-------------------------------------------------------------------
+
+
+- Variable: latitude
+- Type: float64 (ok)
+- Context: latitude of the property
+- Missing Values: 0
+- Expectation:
+- Comments:
+- Examples: 40.75362
+
+-------------------------------------------------------------------
+
+
+- Variable: longitude
+- Type: float64 (ok)
+- Context: longitude of the property
+- Missing Values: 0
+- Expectation:
+- Comments:
+- Examples: -73.97237
+
+-------------------------------------------------------------------
+
+
+- Variable: room_type
+- Type: object (category?)
+- Context: type of rooms of the property
+- Missing Values: 0
+- Expectation:
+- Comments:
+- Examples: Private room
+
+-------------------------------------------------------------------
+
+
+- Variable: price 
+- Type: int64 (ok)
+- Context:
+- Missing Values: 0
+- Expectation: (target?)
+- Comments:
+- Examples: 149
+
+-------------------------------------------------------------------
+
+
+- Variable: minimum_nights
+- Type: int64 (ok)
+- Context: the minimum nights required to stay in the property
+- Missing Values: 0
+- Expectation:
+- Comments:
+- Examples: 10
+
+-------------------------------------------------------------------
+
+
+- Variable: number_of_reviews
+- Type: int64 (ok)
+- Context: number of reviews of the property
+- Missing Values: 0
+- Expectation:
+- Comments:
+- Examples: 45
+
+-------------------------------------------------------------------
+
+
+- Variable: last_review
+- Type: object (datetime?)
+- Context:
+- Missing Values: 10052
+- Expectation:
+- Comments:
+- Examples: 0.38
+
+-------------------------------------------------------------------
+
+
+- Variable: reviews_per_month
+- Type: float64 (ok)
+- Context:
+- Missing Values: 10052
+- Expectation:
+- Comments:
+- Examples: 0.38
+
+-------------------------------------------------------------------
+
+
+- Variable: calculated_host_listings_count
+- Type: int64 (ok)
+- Context:
+- Missing Values: 0
+- Expectation:
+- Comments:
+- Examples: 6
+
+-------------------------------------------------------------------
+
+
+- Variable: availability_365
+- Type: int64 (ok)
+- Context:
+- Missing Values: 0
+- Expectation:
+- Comments:
+- Examples: 355
+
+-------------------------------------------------------------------
