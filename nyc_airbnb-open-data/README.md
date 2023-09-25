@@ -9,8 +9,8 @@
 ## Contents:
 
 - Data Understanding
-- Data Preparation
-- Exploratory Analysis
+- Data Cleaning
+- Data Visualization
 
 
 ---
