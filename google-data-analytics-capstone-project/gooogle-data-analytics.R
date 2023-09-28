@@ -119,7 +119,49 @@ Merged %>%
 
 #################################  5. SHARE  ################################# 
 
+## Visualizing Total Steps and Calories
+
+ggplot(data = Merged) + 
+  geom_point(mapping = aes(x= TotalSteps, y= Calories, color= Calories)) + 
+  labs(x= "Steps Taken", y= "Calories Burned", title = "Calories Burned for Every Step Taken")
 
 
+## Visualizing Total Steps Taken by Day of the Week
+
+ggplot(data = Merged, aes(x= fct_infreq(Weekday), y= TotalSteps)) + 
+  geom_bar(stat = "identity", fill= "brown") + 
+  labs(x= "Weekday", y= "Steps Taken", title = "Total Steps by Day of the Week")
+
+AvgStep <- Merged %>% 
+  group_by(Weekday) %>% 
+  summarise(AverageStep = mean(TotalSteps)) %>% 
+  select(Weekday, AverageStep)
+ggplot(data = AvgStep, aes(x= Weekday, y= AverageStep)) + 
+  geom_bar(stat = "identity", fill= "brown") + 
+  labs(x= "Weekday", y= "Average Steps", title = "Average Steps by Weekday")
 
 
+## Visualizing Total Minutes Asleep and Total Time in Bed
+
+ggplot(data = Merged) + 
+  geom_point(mapping = aes(x= TotalMinutesAsleep, y=TotalTimeInBed, color= TotalTimeInBed)) + 
+  labs(x= "Total Minutes Asleep", y= "Total Time in Bed", title = "Total Minutes Asleep Vs Total Time in Bed")
+
+
+## Visualizing BMI and Total Steps
+
+ggplot(data = Merged) + 
+  geom_point(mapping = aes(x= BMI, y=TotalSteps, color= BMIRange, shape= BMIRange, size= TotalSteps)) + 
+  labs(x= "BMI", y= "Total Steps", title = "BMI Vs Total Steps") +
+  facet_wrap(~BMIRange)
+
+
+## Visualizing Total Distance and Total Steps
+
+
+## Visualizing Activity Categories and Calories Burned
+
+ggplot(Merged, aes(x= Calories, y= VeryActiveMinutes/60, color= Calories)) + 
+  geom_point() + 
+  geom_smooth(method = "loess", color= "brown") +
+  labs(y="Very Active Time(H)", x= "Calories Burned", title = "Very Active Time Vs Calories Burned")
