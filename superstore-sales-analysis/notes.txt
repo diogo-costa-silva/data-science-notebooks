@@ -1,0 +1,65 @@
+https://www.kaggle.com/datasets/lucas142129silva/fifa-23-ultimate-team-players-database
+
+
+This dataset was scraped from FUTBIN, a famous FIFA Ultimate Team site that contains the database from all Ultimate Team players and features
+
+Columns Descriptors:
+Name: name of the player;
+Club: club that the player plays for;
+Nation: player's nation;
+League: league that the club is in;
+Rating: player's rating - 0 to 99;
+Main_Position: the position that is in the face of the player's card;
+Alternate_Positions: the positions that the player can also play;
+Card_Version: type of the card - Rare Gold, ICON, Common Gold;
+Run_Style: the way player runs - Explosive, Controlled and Lenghty;
+Price: the current price of the player on Ultimate Team Market;
+Price_Variation: the daily price difference;
+Skills_Star: measures how many skills a player can do - varies from 1 to 5;
+WeakFoot_Star: measures how well a player execute actions with his weak foot - varies from 1 to 5;
+Attack_Workrate: measures how is the intensity of the player attacking - High, Medium and Low;
+Defense_Workrate: measures how is the intensity of the player defending - High, Medium and Low;
+Pace / Diving: Pace: how fast a player is in game / Diving: how well a goalkeeper jumps to the ball - 0 to 99;
+Shooting / Handling: Shooting: how well a player shoots in game / Handling: how well a goalkeeper is with his hands - 0 to 99;
+Passing / Kicking: Passing: how well a player pass in game / Kicking: how well a goalkeeper kicks the ball - 0 to 99;
+Dribbling / Reflexes: Dribbling: how well a player dribbles in game / Reflexes: how fast a goalkeeper reacts to the ball - 0 to 99;
+Defense / Speed: Defense: how well a player defends in game / Speed: how fast a goalkeeper is in game- 0 to 99;
+Physical / Positioning: Physical: how strong a player is in game / Positioning: how well a goalkeeper positionates himself in goal - 0 to 99;
+Height: in centimeters / in feet;
+BodyType: how is the player's body in game;
+Popularity: the balance of likes and dislikes in the Futbin;
+Base_Stats: the sum of the stats from the front of card;
+Ingame_Stats: the sum of all stats from the player;
+
+I've already done some data understading and I identified some things that need to be addressed:
+- The "Price_Variation" has % in its values and it should be a float
+- "Pace / Diving" is float but the ret of the stats are int. Also, these type of column name should be changed like "Shooting / Handling" to "Shooting_Handling".
+- The "Height" column has heights in both centimeters and inches. Create two new columns with the correct data type.
+- The "BodyType" column has a lot of different values and some of them have the weight attached to them. Some of those values like "CR7" or "Messi" should be discarded because they don't make sense as a type of body of an athlete.
+
+address these concerns in order to begin the exploratory data analysis of this dataset.
+
+
+
+
+
+
+
+
+
+
+
+
+As 10 melhores cartas
+As 10 piores cartas
+
+As 10 ligas com os melhores jogadores
+as 10 ligas com os piores jogadores
+
+as 10 ligas com os jogadores mais caros
+as 10 ligas com os jogadores mais baratos
+
+Qual a posição com os melhores jogadores
+qual a posição com os piores jogadores
+
+média de Skills_Star nas 5 melhores ligas
